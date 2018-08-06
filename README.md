@@ -8,3 +8,8 @@ A music recommendation system based on data from music.163.com
 链接：https://pan.baidu.com/s/1yHl9L1m1KiDVgi_-PaizAQ 密码：8gtf
 
 任务介绍参见pdf
+
+## 模型
+* CF_model 为协同过滤模型
+* vec_model 为 song2vec 和 singer2vec 模型
+
